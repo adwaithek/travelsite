@@ -1,0 +1,231 @@
+
+#nav {
+    margin-left: 850px;
+    margin-top: -40px;
+}
+
+.navbar {
+    width: 100%;
+
+    background-color: rgb(33, 33, 33);
+}
+
+video {
+    filter: brightness(50%);
+
+}
+
+.video {
+    width: 100%;
+    height: ;
+
+
+    background-size:
+        z-index: -1;
+
+}
+
+.content {
+    margin-top: -700px;
+    margin-left: 180px;
+    position: absolute;
+}
+
+.adv {
+
+    font-family: 'Lobster', cursive;
+    font-family: 'M PLUS 1p', sans-serif;
+    font-family: 'Rubik Maze', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 170px;
+    
+}
+
+.lik {
+    font-family: 'Cedarville Cursive', cursive;
+    margin-left: 300px;
+    color: white;
+    font-size: 60px;
+    margin-top: -40px;
+    
+
+
+}
+
+.para {
+    font-family: 'Cedarville Cursive', cursive;
+    color: aliceblue;
+    width: 800px;
+    margin-top: 100px;
+    margin-left: 30px;
+
+}
+.start{
+    margin-top: 60px;
+font-family: 'Freehand', cursive;
+font-size: 50px;
+
+}
+.starturadv{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(239,239,239);
+    margin-top: -60px;
+}
+.dummy{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(239,239,239);
+    margin-top: -5px;
+}
+.frow{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.cardf{
+    margin-left: 40px;
+}
+.cardp{
+    text-decoration: none;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cardp:hover{
+    color: rgb(255,153,0);
+    
+}
+.aboutme{
+    width: 100%;
+    height: 600px;
+   
+    margin-top: 70px;
+}
+.aboutcon{
+    
+    margin-left: 50px;
+    width: 800px;
+    height: 400px;
+    line-height: 33px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+.about{
+    margin-top: -70px;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(239,239,239);
+    
+    
+}
+.abouth{
+margin-top: 60px;
+margin-left: 100px;
+ font-family: 'Dancing Script', cursive;
+
+font-size: 50px;
+}
+.aboutpic{
+    margin-top: -430px;
+    float: right;
+    margin-right: 30px;
+}
+.wtkm{
+    text-decoration: none;
+    font-size: 24px;
+    margin-top: -60px;
+    margin-left: 24px;
+    
+}
+.topd{
+    width: 100%;
+    height: 660px;
+    background-color: rgb(239,239,239);
+    margin-top: 50px;
+}
+.noth{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(239,239,239);
+}
+.dum{
+    width: 100%;
+    height: 30px;
+    background-color: #fff;
+}
+.tdh{
+    margin-top: 40px;
+    font-family: 'Freehand', cursive;
+    color: rgb(49, 52, 54);
+    font-size: 45px;
+}
+.tdp{
+    display: flex;
+    margin-top: 40px;
+}
+.tpic img{
+    width: 305px;
+    height: 400px;
+    background-color: black;
+    margin: 5px;
+    background-size: cover;
+    filter: brightness(80%);
+
+}
+.tpic img:hover{
+    filter: brightness(100%);
+}
+.tdph{
+    position: absolute;
+    margin-top: -260px;
+    margin-left: 36px;
+    color: white;
+}
+.pak{
+    margin-left: 80px;
+}
+.ira{
+    margin-left: 110px;
+}
+.sau{
+    margin-left: 100px;
+}
+.tgh{
+    margin-top: 80px;
+    font-family: 'Freehand', cursive;
+    
+    
+}
+.tps {
+    height: 350px;
+    width: 100%;
+  
+    background-size: cover;
+}
+.pic1{
+    background-image: url(/image/train.jpg);
+  
+}
+.pic2{
+    background-image: url(/image/Cover+Image-Grey.png);
+}
+.tpss{
+    color: white;
+    padding-top: 100px;
+    font-size: 100px;
+}
+.fyte{
+    padding-top:110px;
+    font-size: 20px;
+    color: white;
+
+}
+.fytee{
+    color: white;
+    font-size: 90px;
+    padding-top: 
+}
+#footer{
+    margin-top: 60px;
+}
